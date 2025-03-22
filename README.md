@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pritik Kumar Sha 👋  
+🚀 **B.Tech in Computer Science Engineering | SOA**  
+🔍 **Software Developer | IoT & AI Enthusiast**  
+💡 **Top 30 in a Government Hackathon | Intern at Intensllite**  
 
-<!--
-**Pritiksha20/Pritiksha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ **Tech Stack**
+- **Languages:** Python, Java, C, C++  
+- **AI/ML:** NumPy, Pandas, Scikit-Learn  
+- **IoT & Robotics:** Arduino, ESP32, Raspberry Pi  
+- **Other:** Git, Linux, MS Excel  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Projects:**
+- 🤖 **ESP32-CAM-Based Surveillance Vehicle**
+- 🕹️ **Gesture-Controlled Rock-Paper-Scissors Game**
+- 🔎 **Spam & Fraud Detection using ML**
+  
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-website.com)
