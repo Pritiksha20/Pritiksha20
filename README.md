@@ -3,58 +3,19 @@
 🔹 **Software Developer | IoT & AI/ML Enthusiast**  
 
 📍 Bhubaneswar, Odisha, India  
-📫 [Email](mailto:shapritik20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pritik-kumar-sha-0812a4300) | [GitHub](https://github.com/Pritiksha20)  
+---
+
+### 🏆 About Me  
+- **Passionate about coding, problem-solving,**
+- Building innovative solutions in **AI/ML and IoT**.  
+- **Thrive on learning new technologies and applying them to real-world challenges.**  
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Java, Python, C, C++  
-- **AI/ML:** NumPy, Pandas, Scikit-Learn  
-- **IoT & Robotics:** Arduino, ESP32, Raspberry Pi  
-- **Other:** Git, Linux, MS Excel  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
----
 
-### 🔥 Projects  
-#### 📌 [Spam Detection Using Machine Learning](#)  
-🔹 Built a real-time spam classifier using **Naïve Bayes, SVM, and Random Forest**.  
-🔹 Enhanced accuracy using **TF-IDF & word embeddings**.  
-🔹 Tuned hyperparameters for **optimized performance**.  
-
-#### 📌 [Student Performance Report](#)  
-🔹 Developed a model to **predict student performance** using ML.  
-🔹 Improved accuracy with **feature selection & tuning**.  
-🔹 Provided insights for **educators to track at-risk students**.  
-
-#### 📌 [Ball Tracking Robot](#)  
-🔹 Designed an autonomous **ball detection & tracking** system.  
-🔹 Integrated **computer vision & sensor fusion**.  
-🔹 Applied **motion control & real-time object detection**.  
-
-#### 📌 [ESP32-CAM-Based Surveillance Vehicle](#)  
-🔹 Built an **ESP32-CAM-based vehicle** for real-time monitoring.  
-🔹 Integrated **pan-tilt servos & mecanum wheels** for 360° movement.  
-🔹 Enabled **remote control & live streaming** via a web interface.  
-
----
-
-### 🎓 Education  
-- **B.Tech | Computer Science & Engineering | SOA** (2026)  
-- **12th | CBSE | RVN | Keonjhar** (2022)  
-- **10th | CBSE | DAV | JODA, Keonjhar** (2020)  
-
----
-
-### 👨‍💻 Internship  
-🔹 **Intern at Intensllite** (3 Months)  
-- Worked on **spam detection & student performance analysis** using AI/ML.  
-- Hands-on experience in **data preprocessing, model tuning & deployment**.  
-
----
-
-### 🎤 Seminars & Achievements  
-🔹 **Top 30 in a Government Hackathon**  
-🔹 **SOA Proxima Seminar:** Attended an event with 100+ HR representatives.  
 
 ---
 
